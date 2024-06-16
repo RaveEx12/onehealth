@@ -180,6 +180,6 @@ plt.show()
 This analysis provides comprehensive insights into OneHealth's pharmaceutical delivery performance. By implementing the recommendations, OneHealth can improve lead times, enhance SLA compliance, and achieve greater operational efficiency, ultimately leading to higher customer satisfaction.
 
 ### Deliverables
-1. **Cleaned Data File**: [Submit the cleaned and standardized dataset, including the calculated lead time.]
-2. **Analysis Report**: [This detailed report including summary statistics, visualizations, trend analyses, performance metrics, SLA compliance analysis, insights, and recommendations.]
-3. **Presentation**: [A concise presentation summarizing key findings, trends, and recommendations.]
+1. **Cleaned Data File**: Submitted the cleaned and standardized dataset, including the calculated lead time in this repository
+2. **Analysis Report**: This detailed report including summary statistics, trend analyses, performance metrics, SLA compliance analysis, insights, and recommendations.
+3. **Presentation**: A concise presentation summarizing key findings, trends, and recommendations (not yet completed).
